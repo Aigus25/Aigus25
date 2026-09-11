@@ -8,7 +8,9 @@
 
 **Network, SysAdmin & Cloud**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![TP-Link](https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white)
 
 **Electronics & Hardware**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
