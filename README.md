@@ -23,8 +23,3 @@
 * 🐍 **Network Automation:** Writing Python scripts (Netmiko, NAPALM, Scapy) to automate router/switch configurations.
 * 🛡️ **Network Security & Packet Analysis:** Analyzing PCAP files and monitoring traffic patterns using Wireshark & Python.
 * 🐳 **Homelab & Cloud Infrastructure:** Containerizing network services (DNS, DHCP, VPN, Monitoring tools) with Docker.
-
----
-
-### 📊 GitHub Stats
-![Aigus25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aigus25&show_icons=true&theme=tokyonight)
