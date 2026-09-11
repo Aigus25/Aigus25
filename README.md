@@ -24,13 +24,5 @@
 
 ---
 
-### 🔌 Focus Areas & Experience
-* 🐍 **Network Automation:** Writing Python scripts (Netmiko, Scapy) to automate router/switch configurations and analyze network packets.
-* ⚡ **Electronics & Hardware Tinkering:** Microcontroller projects (ESP32 / Arduino), circuit troubleshooting, soldering, and IoT solutions.
-* 🎥 **Live Streaming & Media Production:** Camera operator, OB crew, and setting up NDI/RTSP low-latency video streaming over local networks for live events.
-* 🐳 **Homelab & Cloud Infrastructure:** Containerizing network services (DNS, VPN, Monitoring) and self-hosting with Docker.
-
----
-
 ### 📊 GitHub Stats
 ![Aigus25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aigus25&show_icons=true&theme=tokyonight)
