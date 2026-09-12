@@ -9,8 +9,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
+# 💻 Tech Stack:
 **Network, SysAdmin & Cloud**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
