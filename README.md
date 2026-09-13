@@ -1,6 +1,6 @@
 # Hi there, I'm Thitiwat (Aigus) 👋
 🎓 Information and Network Engineering  Student @ KMUTNB
-⚡ Hardware Tinkerer | 🎥 Live Stream Operator & Cameraman | 🌐 Network Automation & SysAdmin
+⚡Hardware Tinkerer | 🎥Live Stream Operator & Cameraman | 🌐Network Automation & SysAdmin
 
 ---
 
