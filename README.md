@@ -25,8 +25,3 @@
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Aigus25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aigus25&show_icons=true&theme=tokyonight)
